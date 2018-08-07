@@ -123,6 +123,7 @@ text-align: center;
   margin-bottom: 30px;
   margin-left: 120px;
   resize: vertical;
+  padding-left: 10px;
 
   }
 
@@ -162,6 +163,7 @@ text-align: center;
     margin-bottom: 30px;
     margin-left: 120px;
     resize: vertical;
+    padding-left:10px;
 
     }
 
@@ -200,7 +202,9 @@ text-align: center;
       margin-top: 30px;
       margin-bottom: 30px;
       margin-left: 120px;
-      resize: vertical;}
+      resize: vertical;
+      padding-left: 10px;    
+  }
 
       #name4 {
       border-radius: 0px;
@@ -237,7 +241,9 @@ text-align: center;
    margin-top: 30px;
    margin-bottom: 30px;
    margin-left: 120px;
-   resize: vertical;}
+   resize: vertical;
+  padding-left: 10px;
+}
 
    #name5 {
    border-radius: 0px;
@@ -276,4 +282,5 @@ text-align: center;
  margin-bottom: 30px;
  margin-left: 120px;
  resize: vertical;
+   padding-left: 10px;
 }
